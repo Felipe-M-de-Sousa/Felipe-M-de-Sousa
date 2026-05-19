@@ -7,8 +7,8 @@
   
   Studying Analysis and Systems Development at **FIAP**, focused on scalable, high-performance solutions. I believe in clean code, great developer experience (DX), and products that genuinely solve real problems.
 
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-  [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-monte-de-sousa-761633356)
+  [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.sousa.1106@gmail.com)
 </div>
 
 ---
